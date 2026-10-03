@@ -1,0 +1,10 @@
+{
+  "ip": "192.168.1.2",
+  "token": "41327756",
+  "name": "[TV] Samsung Q70 Series (65)",
+  "model_name": "QE65Q77TATXXC",
+  "mac": "64:e7:d8:10:88:ee",
+  "ws_port": 8002,
+  "upnp_port": 9197,
+  "client_name": "LaptopRemote"
+}
